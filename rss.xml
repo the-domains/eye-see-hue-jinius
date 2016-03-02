@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[EYE SEE HUE JINIUS]]></title>
-        <description><![CDATA[EYE SEE HUE JINIUS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[IMAJIN]]></title>
+        <description><![CDATA[IMAJIN]]></description>
+        <link>https://thegrid.ai/eye-see-hue-jinius/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 02:15:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 02:55:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eye-see-hue-jinius/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19a44393-1ca4-4dc3-b1e9-cd8adc2b3d2b.jpg">]]></description>
-            <link>undefined2e1cefb6-8ec4-4101-bb7a-14fe16fbada2/index.html</link>
+            <link>https://thegrid.ai/eye-see-hue-jinius/2e1cefb6-8ec4-4101-bb7a-14fe16fbada2/index.html</link>
             <guid isPermaLink="false">2e1cefb6-8ec4-4101-bb7a-14fe16fbada2</guid>
-            <pubDate>Wed, 02 Mar 2016 02:15:23 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 02:54:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
